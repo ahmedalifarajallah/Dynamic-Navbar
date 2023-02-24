@@ -1,9 +1,5 @@
 # Landing page
 
-
-## project one
-
-
 ## Description: 
 - Landing page built in html, css and js.
 - Create nav-bar dynamically.
@@ -12,7 +8,7 @@
 
 
 ### Author:
-Ahmed Ali Farajallah
+**Ahmed Ali Farajallah**
 
 
 ### Techs:
