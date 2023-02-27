@@ -17,10 +17,10 @@
 
 
 ### Techs
-1. HTML.
-2. CSS.
-3. JS.
+- HTML.
+- CSS.
+- JS.
 
 
 ### Resources
-1.MDN
+- MDN
