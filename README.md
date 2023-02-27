@@ -5,21 +5,22 @@
 - Create nav-bar dynamically.
 - Make scroll behavior smooth using js.
 - Create highlight on link of section when arrive to it. 
-- 
-- ## Links
+ 
+ 
+ ## Links
 - [Repo] (<https://github.com/ahmedalifarajallah/Dynamic-Navbar/> "Dynamic-Navbar")
 - [Live] (<https://ahmedalifarajallah.github.io/Dynamic-Navbar/>)
 
 
-### Author:
+## Author
 **Ahmed Ali Farajallah**
 
 
-### Techs:
+### Techs
 1. HTML.
 2. CSS.
 3. JS.
 
 
-### Resources:
+### Resources
 1.MDN
